@@ -5,8 +5,8 @@
 ## Datos Personales
 
 **Nombre:** Gerardo Ali Ferraro Schelijasch  
-**Email:** gerferr83@soltecferr.com
-**Telefono:** +58(4120794577) 
+**Email:** tuemail@example.com  
+**Teléfono:** +58 123-456-7890  
 **GitHub:** [stferraro](https://github.com/stferraro)
  
 
