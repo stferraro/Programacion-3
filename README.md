@@ -6,7 +6,7 @@
 
 **Nombre:** Gerardo Ali Ferraro Schelijasch  
 **Email:** gerferr83@soltecferr.com  
-**GitHub:** [tu-usuario](https://github.com/stferraro)
+**GitHub:** [stferraro](https://github.com/stferraro)
 **Telefono:** 04120794577  
 
 ## Descripción
@@ -25,12 +25,9 @@ Unidad I - Conceptos básicos del lenguaje Python:
         -Decimales
     -Booleanos (True, False)
     -Strings (Cadenas de caracteres)
-- Operadores
-    -Operadores aritmeticos
-        - + , - , * , / , **
-    -Operadores relacionales
-        - > , < , >=, == , <=
-    -Operadores logicos
-        - and, or, not
+- Operadores:
+    -Operadores aritmeticos (+ , - , * , / , **)
+    -Operadores relacionales(> , < , >=, == , <=)
+    -Operadores logicos (and, or, not)
     operadores de incremento y decremento
-    
+
