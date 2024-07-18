@@ -21,13 +21,16 @@ Unidad I - Conceptos básicos del lenguaje Python:
 - Constantes 
 - Tipos de datos
     - Numericos
-        -Enteros
-        -Decimales
-    -Booleanos (True, False)
-    -Strings (Cadenas de caracteres)
+        - Enteros
+        - Decimales
+    - Booleanos (True, False)
+    - Strings (Cadenas de caracteres)
 - Operadores:
-    -Operadores aritmeticos (+ , - , * , / , **)
-    -Operadores relacionales(> , < , >=, == , <=)
-    -Operadores logicos (and, or, not)
+    - Operadores aritmeticos 
+        - (+ , - , * , / , **)
+    - Operadores relacionales
+        - (> , < , >=, == , <=)
+    - Operadores logicos 
+        - (and, or, not)
     operadores de incremento y decremento
 
