@@ -5,9 +5,10 @@
 ## Datos Personales
 
 **Nombre:** Gerardo Ali Ferraro Schelijasch  
-**Email:** gerferr83@soltecferr.com  
+**Email:** gerferr83@soltecferr.com
+**Telefono:** +58(4120794577) 
 **GitHub:** [stferraro](https://github.com/stferraro)
-**Telefono:** 04120794577  
+ 
 
 ## Descripción
 
@@ -32,5 +33,5 @@ Unidad I - Conceptos básicos del lenguaje Python:
         - (> , < , >=, == , <=)
     - Operadores logicos 
         - (and, or, not)
-    operadores de incremento y decremento
+    - Operadores de incremento y decremento
 
