@@ -16,7 +16,12 @@ Este es el repositorio de ejercicios del curso de Programación 3. Aquí encontr
 
 ## Contenido
 
-Unidad I - Conceptos básicos del lenguaje Python:
+Unidad I -Fundamentos  básicos:
+
+- Saludo o mensaje en Python
+    - Hello o hola mundo en Python
+
+Unidad II -Elemntos  básicos:
 
 - Variables 
 - Constantes 
