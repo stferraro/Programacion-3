@@ -14,4 +14,4 @@ elif saldo_promedio < 5000:
     saldo = (saldo_promedio + (saldo_promedio * 0.5 / 100))
 
 print(f'El tipo de cliente es: {tipo_cliente}')
-print(f'El nuevo saldo es: {saldo:.2f}')dddd
+print(f'El nuevo saldo es: {saldo:.2f}')
