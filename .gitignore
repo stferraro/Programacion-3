@@ -1,4 +1,14 @@
 __pycache__/
+*.py[cod]
 *$py.class
-/venv
-/venv/
+venv/
+*.env
+*.pdf
+*.doc
+*.docx
+*.xlsx
+*.xls
+*.pptx
+*.ppt
+*.zip
+*.rar
