@@ -3,17 +3,15 @@ from materia import Materia
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Solicitar información del estudiante
+
 nombreEstudiante = input("Ingresa el nombre del estudiante: ")
 apellidoEstudiante = input("Ingresa el apellido del estudiante: ")
 cedulaEstudiante = input("Ingresa el cedula del estudiante: ")
 sexoEstudiante = input("Ingresa el sexo del estudiante: ")
 codigoEstudiante = input("Ingresa el codigo del estudiante: ")
 
-# Inicializar lista de materias
 materias = []
 
-# Crear objeto Estudiante
 estudiante = Estudiante(
     nombreEstudiante,
     apellidoEstudiante,
@@ -23,7 +21,6 @@ estudiante = Estudiante(
     materias
 )
 
-# Solicitar materias
 nombre_materia = input("Ingresa la materia: ")
 while nombre_materia != 'Fin':
     
