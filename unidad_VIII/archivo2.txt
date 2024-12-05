@@ -1,0 +1,2 @@
+Orden: 2 + Computadoras: ['Computadora: 3 + Teclado: Teclado: 3 + Marca: Lenovo, Tipo Entrada: USB + Costo: 5 + Mouse: Mouse: 3 + Marca: Lenovo, Tipo Entrada: USB + Costo: 5 + Monitor: Monitor: 3 + Marca: Lenovo + Pulgadas: "27" + Costo: 150']
+Orden: 2 + Costo: 460.00

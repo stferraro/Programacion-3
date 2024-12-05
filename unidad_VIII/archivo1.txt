@@ -1,0 +1,2 @@
+Orden: 1 + Computadoras: ['Computadora: 1 + Teclado: Teclado: 1 + Marca: Dell, Tipo Entrada: USB + Costo: 3 + Mouse: Mouse: 1 + Marca: Dell, Tipo Entrada: USB + Costo: 3 + Monitor: Monitor: 1 + Marca: Dell + Pulgadas: "24" + Costo: 100', 'Computadora: 2 + Teclado: Teclado: 2 + Marca: HP, Tipo Entrada: USB + Costo: 4 + Mouse: Mouse: 2 + Marca: HP, Tipo Entrada: USB + Costo: 4 + Monitor: Monitor: 2 + Marca: HP + Pulgadas: "17" + Costo: 60']
+Orden: 1 + Costo: 474.00
